@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# task-manager
-=======
 # Task Manager — Laravel Full-Stack Assessment Starter
 
 A small CRUD Task Manager using Laravel, Eloquent, MySQL, Blade, Bootstrap, and vanilla JavaScript.
