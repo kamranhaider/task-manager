@@ -50,12 +50,3 @@ A small CRUD Task Manager using Laravel, Eloquent, MySQL, Blade, Bootstrap, and 
   "description": "Finish and test the task manager",
   "is_completed": false
 }
-```
-
-## Assessment notes
-- `title` is required and limited to 255 characters.
-- `description` is optional.
-- `is_completed` is a boolean.
-- The API returns JSON and appropriate HTTP status codes.
-- Before submission, test all CRUD actions and take screenshots or record a short demo if requested.
->>>>>>> ccadcd6 (initialize assessment project)
